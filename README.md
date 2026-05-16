@@ -7,7 +7,7 @@ The main part is divided into three section about, skills, contact me.
 Each section contains h3 as title and then the relevant code.
 
 About Section.
-<img width="824" height="80" alt="image" src="https://github.com/user-attachments/assets/2a52ad08-d8ae-46d4-b4e8-64191c7cf435" />  
+<img width="824" height="80" alt="image" src="https://github.com/user-attachments/assets/2a52ad08-d8ae-46d4-b4e8-64191c7cf435" /> 
 H3 is the name of the developer and then there's p element which includes introduction about the developer.
   
 
